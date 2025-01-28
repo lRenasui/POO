@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddEmprestimo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddEstudante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddJornal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddLeitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddLivroC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddLivroE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddLivroF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddRevista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddSenior.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EntregarEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Historico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="infos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListEmprestimos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListEstudantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListJornais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListLeitores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListLivrosC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListLivrosE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListLivrosF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListMultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListProfessores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListRevistas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListSenior.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PagarMulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prorrogar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Relatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
